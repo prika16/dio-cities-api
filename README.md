@@ -62,7 +62,11 @@ CREATE EXTENSION earthdistance;
 ## Consumindo API no Postman
 
  Para consumir a API no Postman, pode, por exemplo, fazer os seguintes GET:
+ 
         Países: https://young-shelf-12065.herokuapp.com/countries
+        
         Estados do Brasil: https://young-shelf-12065.herokuapp.com/staties
+        
         Cidades do Brasil: https://young-shelf-12065.herokuapp.com/cities
+        
         Distância em milhas: https://young-shelf-12065.herokuapp.com/distances/by-points?from=4929&to=5254
