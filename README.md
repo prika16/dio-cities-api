@@ -65,7 +65,7 @@ CREATE EXTENSION earthdistance;
  
         Países: https://young-shelf-12065.herokuapp.com/countries
         
-        Estados do Brasil: https://young-shelf-12065.herokuapp.com/staties
+        Estados do Brasil: https://young-shelf-12065.herokuapp.com/states
         
         Cidades do Brasil: https://young-shelf-12065.herokuapp.com/cities
         
